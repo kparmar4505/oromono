@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-docker build -t djocker/oromono .
+docker build -t kishor05/oromono .
