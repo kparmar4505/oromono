@@ -1,4 +1,4 @@
-FROM djocker/orobase:1.2
+FROM kparmar4505/orobase:latest
 
 COPY bin/run.sh /usr/local/bin/
 RUN chmod +x /usr/local/bin/run.sh
